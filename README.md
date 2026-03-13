@@ -1,14 +1,43 @@
-# Hi, I'm Mayank Mishra 👋
+# Hi there, I'm Mayank 👋
 
-🎓 B.Tech CSE Graduate  
-📊 Aspiring Data Engineer  
-💻 Skilled in Python, SQL, Excel, Power BI, Kafka, Spark  
+🎓 B.Tech Computer Science (AI) · IIMT College of Engineering, New Delhi  
+🤖 Passionate about AI, data science & full-stack development  
+🌱 Currently learning React and modern web technologies  
+🔍 Open to opportunities in Software Engineering & AI  
 
-## Projects
-🔹 Uber Data Analysis  
-🔹 Retail Data Analysis  
-🔹 Portfolio Website  
-🔹 Stock-Price Prediction System  
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| 🌾 **Krishi Mitra App** | AI-powered farming assistant built with Gemini API |
+| 📊 **E-Commerce Data Analysis** | Data mining & visualization on e-commerce datasets |
+| 🌐 **Portfolio Website** | Personal site with dark modern design, deployed on Netlify |
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL) 
 
 ## Connect with me
 LinkedIn: (https://www.linkedin.com/in/mayank-mishra-381b68290)
