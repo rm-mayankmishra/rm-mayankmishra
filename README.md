@@ -36,8 +36,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mayank-mishra-381b68290))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]((https://rm-mayankmishra.github.io/MM_Portfolio)) 
 
 ## Connect with me
 LinkedIn: (https://www.linkedin.com/in/mayank-mishra-381b68290)
