@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rm-mayankmishra&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 ---
