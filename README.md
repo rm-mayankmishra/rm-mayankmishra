@@ -1,8 +1,8 @@
 # Hi, I'm Mayank Mishra 👋
 
 🎓 B.Tech CSE Graduate  
-📊 Aspiring Data Analyst  
-💻 Skilled in Python, SQL, Excel and Power BI  
+📊 Aspiring Data Engineer 
+💻 Skilled in Python, SQL, Excel, Power BI, Kafka, Spark
 
 ## Projects
 🔹 Uber Data Analysis  
