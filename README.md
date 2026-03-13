@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mayank Mishra 👋
+
+🎓 B.Tech CSE Graduate  
+📊 Aspiring Data Analyst  
+💻 Skilled in Python, SQL, Excel and Power BI  
+
+## Projects
+🔹 Uber Data Analysis  
+🔹 Retail Data Analysis  
+🔹 Portfolio Website  
+
+## Connect with me
+LinkedIn: (https://www.linkedin.com/in/mayank-mishra-381b68290)
+Portfolio: https://rm-mayankmishra.github.io/MM_Portfolio
+
 
 <!--
 **rm-mayankmishra/rm-mayankmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
