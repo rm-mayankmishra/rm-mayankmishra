@@ -1,7 +1,7 @@
 # Hi there, I'm Mayank 👋
 
-🎓 B.Tech Computer Science (AI) · IIMT College of Engineering, New Delhi  
-🤖 Passionate about AI, data science & full-stack development  
+🎓 B.Tech Computer Science (AI) · IIMT College of Engineering, Gr Noida
+🤖 Passionate about AI, Data Science & Data Engineering
 🌱 Currently learning React and modern web technologies  
 🔍 Open to opportunities in Software Engineering & AI  
 
