@@ -8,6 +8,7 @@
 🔹 Uber Data Analysis  
 🔹 Retail Data Analysis  
 🔹 Portfolio Website  
+🔹 Stock-Price Prediction System  
 
 ## Connect with me
 LinkedIn: (https://www.linkedin.com/in/mayank-mishra-381b68290)
