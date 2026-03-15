@@ -52,6 +52,11 @@ Portfolio: https://rm-mayankmishra.github.io/Mayxotic
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+I'm+Mayank+Mishra;Welcome+to+my+GitHub+Profile;Software+Developer)
 
+![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+
 
 
 <!--
