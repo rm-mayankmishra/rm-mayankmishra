@@ -48,17 +48,6 @@ LinkedIn: (https://www.linkedin.com/in/mayank-mishra-381b68290)
 Portfolio: https://rm-mayankmishra.github.io/Mayxotic
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+Gooo!)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+I'm+Mayank+Mishra;Welcome+to+my+GitHub+Profile;Software+Developer)
-
-![Apache Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-
-[![](https://mermaid.ink/img/pako:eNpVjU1vgkAQhv_KZk5tgkblew9NKrZeTNqDpwKHiYwsUXbJssRa4L930TRt5zST93ne6eGgCgIOx7O6HARqw_abTDI7z2kidNWaGtuczWZPw5YMq5Wk68DWD1vFWqGappLl451fTxBL-t2EETOikqfxHiU3_03SwDbpDhujmvxvsr-ogb2k1buw9f8Toclar-kR-RFnB9QsQZ2DA6WuCuBGd-RATbrG6YR-kjMwgmrKgNu1QH3KIJOjdRqUH0rVP5pWXSnA9p5be3VNgYY2FZYafxGSBelEddIAj_xbBfAePoG7S3fuLpaB6wWht4rjwIGrZVbzMIht5kWh70ZhODrwdfu5mIf-MvCi2PN8q_jR-A38cXRX?type=png)](https://mermaid.live/edit#pako:eNpVjU1vgkAQhv_KZk5tgkblew9NKrZeTNqDpwKHiYwsUXbJssRa4L930TRt5zST93ne6eGgCgIOx7O6HARqw_abTDI7z2kidNWaGtuczWZPw5YMq5Wk68DWD1vFWqGappLl451fTxBL-t2EETOikqfxHiU3_03SwDbpDhujmvxvsr-ogb2k1buw9f8Toclar-kR-RFnB9QsQZ2DA6WuCuBGd-RATbrG6YR-kjMwgmrKgNu1QH3KIJOjdRqUH0rVP5pWXSnA9p5be3VNgYY2FZYafxGSBelEddIAj_xbBfAePoG7S3fuLpaB6wWht4rjwIGrZVbzMIht5kWh70ZhODrwdfu5mIf-MvCi2PN8q_jR-A38cXRX)
-
 
 <!--
 **rm-mayankmishra/rm-mayankmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
