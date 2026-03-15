@@ -57,6 +57,7 @@ Portfolio: https://rm-mayankmishra.github.io/Mayxotic
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
+[![](https://mermaid.ink/img/pako:eNpVjU1vgkAQhv_KZk5tgkblew9NKrZeTNqDpwKHiYwsUXbJssRa4L930TRt5zST93ne6eGgCgIOx7O6HARqw_abTDI7z2kidNWaGtuczWZPw5YMq5Wk68DWD1vFWqGappLl451fTxBL-t2EETOikqfxHiU3_03SwDbpDhujmvxvsr-ogb2k1buw9f8Toclar-kR-RFnB9QsQZ2DA6WuCuBGd-RATbrG6YR-kjMwgmrKgNu1QH3KIJOjdRqUH0rVP5pWXSnA9p5be3VNgYY2FZYafxGSBelEddIAj_xbBfAePoG7S3fuLpaB6wWht4rjwIGrZVbzMIht5kWh70ZhODrwdfu5mIf-MvCi2PN8q_jR-A38cXRX?type=png)](https://mermaid.live/edit#pako:eNpVjU1vgkAQhv_KZk5tgkblew9NKrZeTNqDpwKHiYwsUXbJssRa4L930TRt5zST93ne6eGgCgIOx7O6HARqw_abTDI7z2kidNWaGtuczWZPw5YMq5Wk68DWD1vFWqGappLl451fTxBL-t2EETOikqfxHiU3_03SwDbpDhujmvxvsr-ogb2k1buw9f8Toclar-kR-RFnB9QsQZ2DA6WuCuBGd-RATbrG6YR-kjMwgmrKgNu1QH3KIJOjdRqUH0rVP5pWXSnA9p5be3VNgYY2FZYafxGSBelEddIAj_xbBfAePoG7S3fuLpaB6wWht4rjwIGrZVbzMIht5kWh70ZhODrwdfu5mIf-MvCi2PN8q_jR-A38cXRX)
 
 
 <!--
