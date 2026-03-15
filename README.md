@@ -50,6 +50,8 @@ Portfolio: https://rm-mayankmishra.github.io/Mayxotic
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Let's+Gooo!)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hi+I'm+Mayank+Mishra;Welcome+to+my+GitHub+Profile;Software+Developer)
+
 
 
 <!--
