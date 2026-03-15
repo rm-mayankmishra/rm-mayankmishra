@@ -48,6 +48,8 @@ LinkedIn: (https://www.linkedin.com/in/mayank-mishra-381b68290)
 Portfolio: https://rm-mayankmishra.github.io/Mayxotic
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mayank+Mishra)
+
 
 
 <!--
