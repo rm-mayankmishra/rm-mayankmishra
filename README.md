@@ -33,8 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rm-mayankmishra&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rm-mayankmishra&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rm-mayankmishra&theme=dark)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rm-mayankmishra&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rm-mayankmishra&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
