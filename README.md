@@ -2,6 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Welcome%20to%20My%20GitHub&fontSize=45&color=0:6C63FF,100:00C9FF&fontColor=ffffff"/>
 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing...;Loading+Developer+Profile...;Java+%7C+MERN+%7C+AI%2FML;System+Ready+%E2%9C%85"/>
+</p>
+
 🎓 B.Tech Computer Science (AI) · IIMT College of Engineering  
 🤖 Passionate about AI, Data Science & Data Engineering  
 🌱 Currently learning React and modern web technologies   
