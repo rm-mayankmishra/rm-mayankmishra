@@ -50,7 +50,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mayxotic.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=rm-mayankmishra&label=Profile%20Views&color=0e75b6&style=flat)
-![](https://komarev.com/ghpvc/?username=rm-mayankmishra&label=Profile%20Views&color=blue&style=for-the-badge)
+
 
 
 
