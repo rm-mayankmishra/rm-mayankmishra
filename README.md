@@ -15,11 +15,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Building+Something+Awesome"/>
 </p>
 
-🎓 B.Tech Computer Science (AI) · IIMT College of Engineering  
-🤖 Passionate about AI, Data Science & Data Engineering  
-🌱 Currently learning React and modern web technologies   
-🔍 Open to opportunities in Software Engineering & AI  
-
 ---
 
 ## 🚀 Projects
