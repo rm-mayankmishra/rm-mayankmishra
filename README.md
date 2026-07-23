@@ -3,8 +3,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Welcome%20to%20My%20GitHub&fontSize=45&color=0:6C63FF,100:00C9FF&fontColor=ffffff"/>
 
 
+
+---
+
+## 🔥 My Favourite (Looks Amazing)
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Mayank%20Mishra&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Java%20Developer%20|%20MERN%20Stack%20|%20AI%2FML%20Enthusiast&descAlignY=58"/>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing...;Loading+Developer+Profile...;Java+%7C+MERN+%7C+AI%2FML;System+Ready+%E2%9C%85"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Building+Something+Awesome"/>
 </p>
 
 🎓 B.Tech Computer Science (AI) · IIMT College of Engineering  
