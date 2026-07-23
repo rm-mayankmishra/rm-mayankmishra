@@ -46,7 +46,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=rm-mayankmishra&theme=dark)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rm-mayankmishra&theme=github_dark)
 
-<img src="https://ghchart.rshah.org/0e75b6/rm-mayankmishra" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rm-mayankmishra&theme=github_dark)
 [![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rm-mayankmishra&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
