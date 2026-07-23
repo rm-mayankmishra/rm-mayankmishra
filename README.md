@@ -41,8 +41,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rm-mayankmishra&theme=github_dark)
 
 
-<img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square"/>
-
 [![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rm-mayankmishra&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
@@ -54,7 +52,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mayxotic.netlify.app/)
 
-![](https://komarev.com/ghpvc/?username=rm-mayankmishra&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square"/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
