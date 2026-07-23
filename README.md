@@ -68,7 +68,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![GitHub Repo Card](https://githubcard.com/rm-mayankmishra/rm-mayankmishra.svg)
+
 
 
 
