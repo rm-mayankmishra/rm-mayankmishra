@@ -44,6 +44,7 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rm-mayankmishra&theme=dark)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rm-mayankmishra&theme=github_dark)
 
 
 
