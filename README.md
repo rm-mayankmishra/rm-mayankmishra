@@ -1,5 +1,11 @@
 # Hi there, I'm Mayank 👋
 
+<h1 align="center">👋 Hello, I'm Mayank Mishra</h1>
+
+<h3 align="center">
+Crafting Scalable Software • Exploring Artificial Intelligence • Learning Every Day
+</h3>
+
 🎓 B.Tech Computer Science (AI) · IIMT College of Engineering  
 🤖 Passionate about AI, Data Science & Data Engineering  
 🌱 Currently learning React and modern web technologies   
