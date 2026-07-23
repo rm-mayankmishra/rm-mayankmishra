@@ -1,13 +1,3 @@
-# Hi there, I'm Mayank 👋
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Welcome%20to%20My%20GitHub&fontSize=45&color=0:6C63FF,100:00C9FF&fontColor=ffffff"/>
-
-
-
----
-
-## 🔥 My Favourite (Looks Amazing)
-
 
 <div align="center"> <!-- Typing animation header --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mayank+Mishra+%F0%9F%91%8B;Full+Stack+Developer;I+build+things+for+the+web;Always+learning%2C+always+shipping" alt="Typing SVG" /> </a> <!-- Animated wave banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> </div>
 
