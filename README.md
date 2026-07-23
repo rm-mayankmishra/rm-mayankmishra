@@ -46,6 +46,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mayxotic.netlify.app/)
 
+![Snake animation](https://github.com/rm-mayankmishra/rm-mayankmishra/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
