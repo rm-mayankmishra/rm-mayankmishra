@@ -51,6 +51,8 @@
 
 ![](https://komarev.com/ghpvc/?username=rm-mayankmishra&label=Profile%20Views&color=0e75b6&style=flat)
 
+[![An image of @YOUR_USERNAME's Holopin badges](https://holopin.me/YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
+
 
 
 
