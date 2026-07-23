@@ -1,6 +1,8 @@
 # Hi there, I'm Mayank 👋
 
+<h1 align="center">while(alive) { learn(); code(); build(); repeat(); }</h1>
 
+<h3 align="center">Java | MERN Stack | AI/ML | Problem Solving</h3>
 
 🎓 B.Tech Computer Science (AI) · IIMT College of Engineering  
 🤖 Passionate about AI, Data Science & Data Engineering  
