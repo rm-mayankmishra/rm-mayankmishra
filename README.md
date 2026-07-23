@@ -1,8 +1,6 @@
 # Hi there, I'm Mayank 👋
 
-<h1 align="center">while(alive) { learn(); code(); build(); repeat(); }</h1>
-
-<h3 align="center">Java | MERN Stack | AI/ML | Problem Solving</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Welcome%20to%20My%20GitHub&fontSize=45&color=0:6C63FF,100:00C9FF&fontColor=ffffff"/>
 
 🎓 B.Tech Computer Science (AI) · IIMT College of Engineering  
 🤖 Passionate about AI, Data Science & Data Engineering  
